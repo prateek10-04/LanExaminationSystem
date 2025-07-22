@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the output of 3 + 2 * 2 in Python?",
+    "options": ["A. 10", "B. 7", "C. 9", "D. 8"],
+    "answer": "B"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["A. define", "B. def", "C. function", "D. func"],
+    "answer": "B"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["A. HyperText Transfer Protocol", "B. HighText Transfer Protocol", "C. Hyper Transfer Text Protocol", "D. None of the above"],
+    "answer": "A"
+  },
+  {
+    "question": "Which data structure uses FIFO?",
+    "options": ["A. Stack", "B. Queue", "C. List", "D. Tree"],
+    "answer": "B"
+  },
+  {
+    "question": "What symbol is used to start a comment in Python?",
+    "options": ["A. //", "B. /*", "C. #", "D. <!--"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "options": ["A. Python", "B. Java", "C. HTML", "D. C++"],
+    "answer": "C"
+  },
+  {
+    "question": "Which company created the C programming language?",
+    "options": ["A. Microsoft", "B. Bell Labs", "C. Apple", "D. IBM"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": ["A. MySQL", "B. PostgreSQL", "C. MongoDB", "D. Oracle"],
+    "answer": "C"
+  },
+  {
+    "question": "Which is the correct file extension for Python files?",
+    "options": ["A. .py", "B. .pt", "C. .p", "D. .python"],
+    "answer": "A"
+  }
+]
